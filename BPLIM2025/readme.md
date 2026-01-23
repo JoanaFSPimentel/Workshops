@@ -33,7 +33,7 @@ Tools and Techniques for Fast Computing". Recordings of all sessions will be ava
 
 [Grant McDermott](https://grantmcdermott.com/), Amazon
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2025/Day1_04_Grant_McDermott.pdf) / Video <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2025/Day1_04_Grant_McDermott.pdf) / [Materials](https://grantmcdermott.com/duckdb-polars/) / Video <br/><br/>
 
 
 
@@ -52,16 +52,16 @@ Tools and Techniques for Fast Computing". Recordings of all sessions will be ava
 
 **Estimating LLRMs (Large Linear Regression Models)**
 
-[Alexander Fischer](https://www.linkedin.com/in/alexander-fischer-25653219b/), Trivago
+[Alexander Fischer](https://github.com/s3alfisc), Trivago
 
 - [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2025/Day2_02_Alexander_Fischer.pdf) / Video <br/><br/>
 
 
 **`collapse` and `fastverse`: Advanced and Fast Statistics and Data Transformation in R**
 
-[Sebastian Krantz](https://sebastiankrantz.com/), CPCS, World Bank, and Kiel Institute
+[Sebastian Krantz](https://github.com/SebKrantz), CPCS, World Bank, and Kiel Institute
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2025/Day1_03_Sebastian_Krantz.pdf) / Video <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2025/Day2_03_Sebastian_Krantz.pdf) / Video <br/><br/>
 
 
 
